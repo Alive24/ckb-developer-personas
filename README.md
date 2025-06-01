@@ -1,5 +1,7 @@
 # CKB Developer Personas
 
+- Refer to `developer-personas - the_developer_relations_playbook_2021.pdf` in the book for more details for what Developer Personas are for!
+
 ## How to build your own developer persona
 
 - Fork this repo
