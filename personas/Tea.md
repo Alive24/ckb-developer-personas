@@ -18,7 +18,7 @@
 
 > how much do you know about Dev Rel
 
-My first contact with Dev Rel team member Hanssen was back in July 2024 in GM Vietnam. CCC got my attention since then.
+My first contact with Dev Rel team member Hanssen was back in Jun 2024 in GM Vietnam. CCC got my attention since then.
 
 ---
 
@@ -29,7 +29,7 @@ My first contact with Dev Rel team member Hanssen was back in July 2024 in GM Vi
 Most of my time I am a solo builder. I occasionally outsource when facing time constraints.
 
 - Built my first app JoyDAO - A prototype verison of NERVDAO.
-- Built Quantum Purse - a quantum-safe wallet (building actually).
+- Building Quantum Purse - a quantum-safe wallet.
 - I enjoy using CKB infra products and feeding back.
 
 ---
@@ -52,7 +52,6 @@ I first heard of CKB as an investor back in early 2021. Jordan's intro video and
 - Discord: Nervos Network
 - Nervos Talk
 - Github
-- Linkedin
 
 ---
 
@@ -61,8 +60,8 @@ I first heard of CKB as an investor back in early 2021. Jordan's intro video and
 > - what pain points do you plan to solve by building in CKB
 > - (what issues do you still often encounter when building in CKB)
 
-- One of the major pain points when building on CKB is that reading the documentation can be quite tedious. There are very few people working on it, and at the same time, asking beginner questions often feels discouraged personally. So by doing all these, I hope everyone else will join the journey with joy.
-- Debugging scripts is still very challenging to navigate through. Debugging on testnet is just not convenient for rapid update->deploy cycles. But spinning a local dev node (even though very well documented) isn't convenient either. I'm used to it by now but it must be confusing to new commers.
+- One of the major pain points when building on CKB is that reading the documentation can be quite tedious. There are very few people working on it, and at the same time, asking beginner questions often feels discouraged personally. So by doing all these, I hope everyone else will join the journey with some sample codes and joy.
+- Debugging scripts is still very challenging to navigate through. Sometimes i still get very vague error codes.
 
 ---
 
@@ -109,7 +108,7 @@ As an investor back in 2021.
 
 > what made you want to build in CKB?
 
-- Personally making 1 working app on CKB gives me more joy than deploying 10 contracts on Ethereum or other platforms.
+- It's challenging but at the same time interesting to build on CKB. I get to build and learn many skills that's not just 1-domain specific but versatile and widely accepted.
 - Also building on a solid foundation is a natural desire. My app can last as long as the foundation it's built on.
 
 ### Learn
