@@ -109,7 +109,7 @@ As an investor back in 2021.
 
 > what made you want to build in CKB?
 
-- Pride. Personally making 1 working app on CKB gives me more joy than deploying 10 contracts on Ethereum.
+- Personally making 1 working app on CKB gives me more joy than deploying 10 contracts on Ethereum or other platforms.
 - Also building on a solid foundation is a natural desire. My app can last as long as the foundation it's built on.
 
 ### Learn
