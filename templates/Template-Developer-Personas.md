@@ -28,13 +28,12 @@
 ---
 
 ### 🚀 **Personal Development**
-
-> how and where did you learn about CKB
+> How do you prefer to learn new technologies (not just CKB) (hands-on, documentation, video tutorials, peer learning)?
 
 ---
 
 ### 🤝 **Community**
-> Places where you're most active in relation to CKB
+> Places where you're most active in for crypto technology, not just limited to CKB.
 
 - Telegram:
   - Nervos Nation
@@ -83,15 +82,16 @@ Script:
 ## Developer Journey Mapping
 
 ### Discover
-
+> How do you typically discover new technologies and tools? (Twitter, Reddit, HackerNews, conferences, etc.)
 > how did you discover CKB?
 
 ### Evaluate
-
+> What makes you want to try a new blockchain/technology? 
+> What factors do you consider when evaluating whether to use a new tech?
 > what made you want to build in CKB?
 
 ### Learn
-
+> What areas do you want to improve? How much time do you spend learning new tech monthly?
 > how and where did you learn your skills to build in CKB?
 
 ### Build
