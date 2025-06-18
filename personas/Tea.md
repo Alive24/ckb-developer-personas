@@ -5,6 +5,7 @@
 ## 🧑‍💻 **About**
 
 > I'm Tea. It's actually "T" — the first letter in my name, XD.
+
 I started out my career as an embedded software engineer, working in chip fabrication processing. Assembly and C++ were my main languages at the time. Writing Assembly bored me enough that I wanted to build something more observable — something that could actually reach end-users. So I quit and entered the blockchain space in 2021.
 
 When I first got into crypto, I joined a startup building on EOS. But the last wave of EOS hype faded soon after, funds dried up, and we moved on to EVM. I started again with EVM & Solidity — it was super easy to learn and adapt. Around that time, I also started reading Mastering Bitcoin, XD, and heard about CKB.
@@ -22,13 +23,13 @@ Soon enough, funds dried up again after the Luna and FTX crashes in 2022. By the
 
 ### 🧠 **Awareness**
 
-> My first contact with Dev Rel team member Hanssen along with Cipher and Baiyu was back in Jun 2024 in GM Vietnam. I was already a fan of RGB++ and CCC really got my attention since then.
+My first contact with Dev Rel team member Hanssen along with Cipher and Baiyu was back in Jun 2024 in GM Vietnam. I was already a fan of RGB++ and CCC really got my attention since then.
 
 ---
 
 ### 💼 **Business**
 
-> Most of my time I am a solo builder. I occasionally outsource when facing time constraints.
+Most of my time I am a solo builder. I occasionally outsource when facing time constraints.
 
 ---
 
@@ -124,7 +125,7 @@ When evaluating whether to use a new tech, I consider its long term versatility 
 I'm a baby Rustacean now and Quantum Purse is the first time I use Rust to build something meaningful. So "rusting" is the area I'd want to improve.
 I learn while building the most - this takes 80% of my active time. The rest 20% I use to passively learn (mostly for fun and for filling the gap in my knowledge).
 
-> how and where did you learn your skills to build in CKB?
+> How and where did you learn your skills to build in CKB?
 
 - I learned most of Cell Model and L1 scripts from CKB Academy.
 - I learned Rust recently on youtube. I like live teaching.
@@ -132,12 +133,12 @@ I learn while building the most - this takes 80% of my active time. The rest 20%
 
 ### Build
 
->how do you usually build in CKB?
+>How do you usually build in CKB?
 
 - All starts from an idea. An idea often comes from building other ideas. Small-medium ideas always make me excited the most.
 
 ### Scale
 
->how do you decide what to build?
+>How do you decide what to build?
 
 - I'm a user of the network. Most of my decisions are based on what I need that is not available.
