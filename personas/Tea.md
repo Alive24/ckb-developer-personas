@@ -4,7 +4,12 @@
 
 ## 🧑‍💻 **About**
 
-> I'm Tea. It's actually "T" - the first letter in my name XD. I started out my career as an embedded software engineer, working in CHIP fabrication processing. Assembly and C++ were my main languages at the point. Writing Assembly bored me enough I wanted to build something observable and can reach end-users. I quit to enter blockchain space in 2021. When I first entered crypto, I joined a startup building on EOS but the last period of EOS hype died out soon after, funds dried so We moved on to EVM. I started again with EVM & Solidity and it was super easy to learn and adapt. During this time I started to read Bitcoin mastering XD and heard about CKB. Soon enough, funds dried again following Luna & FTX crash in 2022 - 2023. At the end of 2023 I quit again and this time I wanted to do solo dev. CKB was my next intuitive target as it seemed to be the balance point I was looking for - not too high level but also not too low.
+> I'm Tea. It's actually "T" — the first letter in my name, XD.
+I started out my career as an embedded software engineer, working in chip fabrication processing. Assembly and C++ were my main languages at the time. Writing Assembly bored me enough that I wanted to build something more observable — something that could actually reach end-users. So I quit and entered the blockchain space in 2021.
+
+When I first got into crypto, I joined a startup building on EOS. But the last wave of EOS hype faded soon after, funds dried up, and we moved on to EVM. I started again with EVM & Solidity — it was super easy to learn and adapt. Around that time, I also started reading Mastering Bitcoin, XD, and heard about CKB.
+
+Soon enough, funds dried up again after the Luna and FTX crashes in 2022. By the end of 2023, I quit again — and this time, I wanted to go solo. CKB felt like my next intuitive target. It seemed like the balance point I was looking for: not too high-level, but not too low either.
 
 - **Location**: Vietnam
 - **Timezone**: +7
@@ -32,17 +37,19 @@
 
 **A. Raw knowledge**
 
-Asking questions is one such experience I'd just want to do all the time. Sometimes try answering some good questions really teaches me a bunch. AI can definitely help answering a lot but it sucks when it gives a sample code that doesn't work or it takes days to discuss a point i don't understand. For example it took me about 3 days straight to get a small "bingo" in SPHINCS+ architecture when asking with AI (from zero). The thing was that I didn't even fully trust it so I moved on reading blocks and watch live videos on youtube XD.
+Asking questions is one of those things I’d love to do all the time. Sometimes, trying to answer a good question actually teaches me a lot. AI can definitely help with answering many of them, but it sucks when it gives sample code that doesn’t work — or when it takes days going in circles just to discuss a single point I don’t understand.
 
-I believe communicating with real people working in the same field still play an important role, especially when we need profesional helps, and especially in a fast moving and wild space like crypto. 
+For example, it took me about three straight days to get a small “bingo” moment in the SPHINCS+ architecture when asking AI (starting from zero). The thing was, I didn’t even fully trust it, so I ended up reading blogs and watching live videos on YouTube instead, XD.
 
-Having open and effective communication with real people is a different story here. Asking newbie questions seems to feel discouraged all the time. Maybe it's a common fear to get corrections from others. Not good, but it's a tempation. The only motivation to get me ask fearlessly is deadlines. I tend to put strict deadlines on me for this same reason.
+I believe that communicating with real people working in the same field still plays an important role — especially when we need professional help, and especially in a fast-moving, wild space like crypto.
+
+But having open and effective communication with real people is a whole different story. Asking newbie questions always feels a bit discouraged. Maybe it's just a common fear of getting corrected by others. Not great, but it’s a temptation. The only thing that motivates me to ask fearlessly is deadlines. I tend to put strict deadlines on myself for exactly that reason.
 
 **B. Building**
 
-Reading documentation from beginning is like getting stranded in forrest (any documentation). I don't do this except the docs is super easy to understand. I usually start out by reading blogs (I gotta say CKB common knowledge blogs teach me a lot about Bitcoin, Ethereum and CKB), playing around with demo apps and some time later I may have ideas. Sometimes I don't.
+Reading documentation from the beginning feels like getting stranded in a forest (any documentation). I don’t usually do that unless the docs are super easy to understand. I typically start by reading blogs (I gotta say, CKB’s Common Knowledge blogs taught me a lot about Bitcoin, Ethereum, and CKB), playing around with demo apps — and sometime later, I might get ideas. Sometimes I don’t.
 
-Then when I have an idea and a little sense of the implementation feasibility, it gets easier. As soon as i know what I want to do then I'd use the doc as a map, and asking a few friends along the way to build. That's my method currently to both building and learning at the same time.
+But once I have an idea and a rough sense of how feasible the implementation is, things get easier. As soon as I know what I want to build, I start using the docs as a map — and I ask a few friends along the way to help build. That’s my current method for both building and learning at the same time.
 
 ---
 
